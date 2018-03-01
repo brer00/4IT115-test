@@ -7,7 +7,8 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<groupId>brer00</groupId>
 	<artifactId>test_case</artifactId>
         <version>0.0.1-SNAPSHOT</version>
-	<dependencies>
+        <name>test_case</name>
+        <dependencies>
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
